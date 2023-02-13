@@ -1,6 +1,6 @@
 {
-    "name": "employee2",
-    "email": "employee2@gmail.com",
+    "name": "user2",
+    "email": "user2@gmail.com",
     "password": "321",
     "age": "32",
     "hiringDate": "03/12/2023"
