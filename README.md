@@ -1,11 +1,10 @@
-## Information about the Project
+## Consumming an external API
 
-**Description**: Project that uses hexagonal architecture, boils down to a crud application in
-JAVA that handles data from persons registered in a PostgreSQL database.<br>
-**Language**: JAVA, 17<br>
-**Framework**: SpringBoot<br>
-**Library**: OpenApi 3.0<br>
-**Testing**: Junit 5.0<br>
+**Description**: An application rarely “lives alone” and at some point the need to integrate it with other applications
+may arise. Nowadays many of the integrations use the REST architectural model, just like this project, whose objective
+is to fetch a list of users and save it on a local database.<br>
+
+**Tags**: JAVA 17, SpringBoot, OpenApi 3.0, Junit 5.0, FeignClient<br>
 
 ## How to run the Project locally?
 
